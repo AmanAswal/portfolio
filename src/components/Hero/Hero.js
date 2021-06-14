@@ -8,13 +8,13 @@ const Hero = () => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Welcome To <br />
-        My Personal Portfolio
+        Hello <br />
+        I am Aman Aswal
       </SectionTitle>
       <SectionText>
-      Your portfolio is your resume and your business card. Learn how to build a responsive personal development portfolio from scratch and make your first impression count. We'll be using React and Next JS.
+        write a good intro
       </SectionText>
-      <Button onClick={() => window.location = "https://google.com"}>Learn More</Button>
+      <Button onClick={() => window.location = "https://drive.google.com/file/d/19fAfxaWDw_pgQ2d_ZnRvIbzD_qCSONDq/view?usp=sharing"}>Resume</Button>
     </LeftSection>
 
   </Section>

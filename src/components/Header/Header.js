@@ -27,20 +27,20 @@ const Header = () =>  (
         </Link>
       </li>
       <li>
-        <Link href="#projects">
+        <Link href="#about">
           <NavLink>About</NavLink>
         </Link>
       </li>
     </Div2>
 
     <Div3>
-      <SocialIcons href="https://github.com">
+      <SocialIcons target="blank" href="https://github.com/AmanAswal">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://linkedin.com">
+      <SocialIcons target="blank" href="https://www.linkedin.com/in/amanaswal/">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://instagram.com">
+      <SocialIcons target="blank" href="https://www.instagram.com/amanaswal_/">
         <AiFillInstagram size="3rem" />
       </SocialIcons>
     </Div3>
