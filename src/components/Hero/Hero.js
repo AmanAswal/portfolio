@@ -12,7 +12,7 @@ const Hero = () => (
         I am Aman Aswal
       </SectionTitle>
       <SectionText>
-        write a good intro
+        I am a Web Developer, a Problem Solver and a agile learner.
       </SectionText>
       <Button onClick={() => window.location = "https://drive.google.com/file/d/19fAfxaWDw_pgQ2d_ZnRvIbzD_qCSONDq/view?usp=sharing"}>Resume</Button>
     </LeftSection>
